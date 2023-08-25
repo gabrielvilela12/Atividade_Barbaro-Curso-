@@ -1,0 +1,8 @@
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\bin\Debug\Águia exercicio 2.exe.config
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\bin\Debug\Águia exercicio 2.exe
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\bin\Debug\Águia exercicio 2.pdb
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\obj\Debug\Águia exercicio 2.csproj.AssemblyReference.cache
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\obj\Debug\Águia exercicio 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\obj\Debug\Águia exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\obj\Debug\Águia exercicio 2.exe
+C:\Users\gabriel.vpeixoto\source\repos\Águia exercicio 2\Águia exercicio 2\obj\Debug\Águia exercicio 2.pdb

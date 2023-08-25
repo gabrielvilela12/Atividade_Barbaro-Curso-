@@ -1,0 +1,8 @@
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\bin\Debug\Coruja exercicio 3.exe.config
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\bin\Debug\Coruja exercicio 3.exe
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\bin\Debug\Coruja exercicio 3.pdb
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\obj\Debug\Coruja exercicio 3.csproj.AssemblyReference.cache
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\obj\Debug\Coruja exercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\obj\Debug\Coruja exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\obj\Debug\Coruja exercicio 3.exe
+C:\Users\gabriel.vpeixoto\source\repos\Coruja exercicio 3\Coruja exercicio 3\obj\Debug\Coruja exercicio 3.pdb
